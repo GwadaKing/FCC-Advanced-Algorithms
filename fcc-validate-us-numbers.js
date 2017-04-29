@@ -11,9 +11,9 @@ function telephoneCheck(str) {
     var parentheseOff=str.indexOf(")");  
     // Si le numéro semble dans un bon format alors on teste
     if (str.match(pattern1)) {
-        // Si le numéro commence par le bon indicatif 1 suivi de \s, on valide et on enlève l'indicatif de la chaine str
-        if (str1stChars==="1 ") {
-            str=str.replace("1 ","");
+        // Si le numéro commence par le bon indicatif 1 suivi de \s ou de (, on valide et on enlève l'indicatif de la chaine str
+        if ((str1stChars==="1 ")||(str1stChars==="1(")) {
+            str=str.replace(str1stChars,"");
             // on met à jour les variables liées à la chaine
             str1stChar=str.substring(0,1);
             str1stChars=str.substring(0,2);
@@ -24,9 +24,9 @@ function telephoneCheck(str) {
         // s'il y a un indicatif, mais que c'est pas le bon, alors false
         if ((str2ndChar===" ")&&(str1stChar!=="1")) {
             return false;
-        }        
+        }       
         // si la chaine a une parenthèse ouvrante alors...
-        if (parentheseOn!==-1) {
+        if (parentheseOn!==-1) {          
             // tester si elle est à la bonne position sinon false
             if (parentheseOn!==0) {
                 return false;
@@ -36,16 +36,16 @@ function telephoneCheck(str) {
                 // check si parenthèse fermante dans la chaine et si oui
                 if (parentheseOff!==-1) {
                     // check si bonne position sinon false
-                    if (parentheseOff!==3) {
+                    if (parentheseOff!==4) {
                         return false;
                     }          
                 }
-            }
-            return true;
-        }  
-        else if (!str.match(pattern1)) {
-            return false;
-        }   
+            }            
+        }
+        return true;
     } // fin if principal
+    else if (!str.match(pattern1)) {
+        return false;
+    }   
 } // fin fonction
-//telephoneCheck("1 555)555-5555");
+telephoneCheck("(555)555-5555");
