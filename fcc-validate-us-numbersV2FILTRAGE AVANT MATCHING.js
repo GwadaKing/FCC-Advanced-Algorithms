@@ -16,14 +16,8 @@ if ((espace!==-1)&&(espace!==1)) {
     return false;
 }
 // si indicatif autre que 1 alors false
-if (((str2ndChar===" ")||(str2ndChar=="("))&&(str1stChar!=="1")) {
+if ((str2ndChar===" ")&&(str1stChar!=="1")) {
     return false;
-}
-// si str commence par une parenthese ouvrante, alors si fermante mal placée return false
-if (str1stChar==="(") {
-  if (parentheseOff!==4) {
-    return false;
-  }
 }
 // Si le numéro commence par le bon indicatif 1 suivi de (, on check la parenthèse fermante
 if (str1stChars==="1(") {
@@ -70,4 +64,4 @@ else if (!str.match(pattern1)) {
     return false;
 }   
 } // fin fonction
-//telephoneCheck("1 (555) 555-5555");
+telephoneCheck("1 (555) 555-5555");
