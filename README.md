@@ -1,11 +1,32 @@
-# FCC-Advanced-Algorithms
+<h1>MY PORTFOLIO</h1>
 
-ENGLISH
-My humble solutions of the Advanced Algorithms scripting section of Free Code Camp. This repo is in progress !
+<h2>APPZ</h2>
+<h2>APPLICATIONS</h2>
 
-WARNING : I don't pretend these algorithms to be any kind of reference. They should be definitely perfectible. If someone passes by and wanna give me advices to improve my algos, this is welcome !
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-FRANCAIS
-Mes humbles solutions pour la section algorithmes avancés de Free Code Camp. Ce repo est amené à se remplir au fil de ma progression dans la section
+<h4>WEATHER APP</h4>
+http://codepen.io/GwadaKing/full/EWOmMd/
 
-ATTENTION : Je ne prétends pas que mes algorithmes soient une référence d'aucune sorte en quoi que ce soit. Même si j'ai refactorisé mon code, je me doute bien qu'il est sûrement largement perfectible et optimisable. Pour la simple raison que j'ai toujours codé en procédurale, et que le paradigme objet ne m'habite pas encore.
+<h4>TWITCHTV VIEWER</h4>
+http://codepen.io/GwadaKing/full/KWLYWW/
+
+<h4>RANDOM QUOTE MACHINE</h4>
+http://codepen.io/GwadaKing/full/mWppGx/
+
+<h4>WIKIPEDIA LIGHT VIEWER</h4>
+http://codepen.io/GwadaKing/full/XMxerz/
+
+
+<h2>THOSE PEOPLE TRUSTED ME</h2>
+<h2>CES SOCIETES M'ONT FAIT CONFIANCE</h2>
+
+<h4>INSURANCE COMPANY</h4>
+http://avalinks.fr
+
+<h4>BAKERY</h4>
+http://lzsaveurs.com
+
+<h4>NAUTICAL EVENTS</h4>
+http://jetlancre.com
+
+<h4>CHILD CHORAL</h4>
+http://bvtm971.net
