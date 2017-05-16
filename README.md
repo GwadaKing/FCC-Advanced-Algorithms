@@ -2,7 +2,7 @@
 <h2>APPZ ||| APPLICATIONS</h2>
 
 <h4>ELECTRONIC CALCULATOR</h4>
-<img src="http://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.ybKegy.4d3fb762-d7d4-4722-bbbc-209eebad5006.png" alt="javascript calculator">
+<img src="http://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.ybKegy.3a1b00c1-1185-4319-863d-6795faac9dd5.png" alt="javascript calculator">
 http://codepen.io/GwadaKing/full/ybKegy/
 
 <h4>WEATHER APP</h4>
