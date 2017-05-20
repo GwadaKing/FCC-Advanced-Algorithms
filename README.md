@@ -26,16 +26,20 @@ http://codepen.io/GwadaKing/full/mWppGx/
 http://codepen.io/GwadaKing/full/XMxerz/
 
 
-<h2>THOSE PEOPLE TRUSTED ME ||| CES SOCIETES M'ONT FAIT CONFIANCE</h2>
+<h2>THOSE COMPANIES TRUSTED ME ||| CES SOCIETES M'ONT FAIT CONFIANCE</h2>
 
 <h4>INSURANCE COMPANY ||| COURTIER EN ASSURANCES</h4>
+<img src="http://image.noelshack.com/fichiers/2017/20/1495314190-screenshot-avalinks-fr-2017-02-24-18-48-04.png" alt="Avalinks">
 http://avalinks.fr
 
 <h4>BAKERY ||| BOULANGERIE</h4>
+<img src="http://image.noelshack.com/fichiers/2017/20/1495314238-screenshot-www-lzsaveurs-com-2017-02-24-18-35-58.png" alt="LZ Saveurs Gourmandes">
 http://lzsaveurs.com
 
 <h4>NAUTICAL EVENTS ||| EVENEMENTIELS NAUTIQUES</h4>
+<img src="http://image.noelshack.com/fichiers/2017/20/1495314719-screenshot-jetlancre-com-2017-02-24-18-41-04.png" alt="Jet l'Ancre">
 http://jetlancre.com
 
 <h4>CHILD CHORAL ||| CHOEUR LAIQUE D'ENFANTS</h4>
+<img src="http://image.noelshack.com/fichiers/2017/20/1495314252-screenshot-bvtm971-net-2017-02-24-18-42-33.png" alt="Bel Voix Timoun">
 http://bvtm971.net
