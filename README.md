@@ -2,7 +2,7 @@
 <h2>APPZ ||| APPLICATIONS</h2>
 
 <h4>POMODORO CLOCK</h4>
-<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.KmGqLN.98821180-7cc9-4762-9f81-b9326dc44bef.png" alt="Javascript Pomodoro Clock with FlipClock.js library">
+<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.KmGqLN.c210748a-c4ba-453e-b2ed-2b51e844608c.png" alt="Javascript Pomodoro Clock with FlipClock.js library">
 https://codepen.io/GwadaKing/full/KmGqLN/
 
 <h4>ELECTRONIC CALCULATOR ||| CALCULATRICE</h4>
