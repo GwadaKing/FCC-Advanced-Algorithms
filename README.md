@@ -6,7 +6,7 @@
 https://codepen.io/GwadaKing/full/KmGqLN/
 
 <h4>ELECTRONIC CALCULATOR ||| CALCULATRICE</h4>
-<img src="http://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.ybKegy.3a1b00c1-1185-4319-863d-6795faac9dd5.png" alt="javascript calculator with Math.JS API">
+<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.ybKegy.85f57804-a7af-46a5-af82-ae36aa86a1f0.png" alt="javascript calculator with Math.JS API">
 http://codepen.io/GwadaKing/full/ybKegy/
 
 <h4>WEATHER APP ||| APPLICATION METEO</h4>
