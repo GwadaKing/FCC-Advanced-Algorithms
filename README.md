@@ -2,11 +2,19 @@
 <h2>APPZ ||| APPLICATIONS</h2>
 
 <h4>CAMPERS LEADERBOARD</h4>
-<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.gRqEXE.6511a617-926a-4ca0-967f-0c54740d3db0.png" alt="Javascript Pomodoro Clock with FlipClock.js library">
+<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.gRqEXE.6511a617-926a-4ca0-967f-0c54740d3db0.png" alt="">
 https://codepen.io/GwadaKing/full/gRqEXE/
 
+<h4>HTML MARKDOWN PREVIEWER</h4>
+<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.NgYvOj.3e175b7b-66a3-4a0c-9ad4-b58970daf7d4.png" alt="">
+https://codepen.io/GwadaKing/full/NgYvOj/
+
+<h4>SPACE SIMON SAYS</h4>
+<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.eRGNMR.f2d90f89-4306-4c71-8bfb-d4669f3ffa6f.png" alt="">
+https://codepen.io/GwadaKing/full/eRGNMR/
+
 <h4>POMODORO CLOCK</h4>
-<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.KmGqLN.c210748a-c4ba-453e-b2ed-2b51e844608c.png" alt="Javascript Pomodoro Clock with FlipClock.js library">
+<img src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1113919.KmGqLN.c210748a-c4ba-453e-b2ed-2b51e844608c.png" alt="">
 https://codepen.io/GwadaKing/full/KmGqLN/
 
 <h4>ELECTRONIC CALCULATOR ||| CALCULATRICE</h4>
