@@ -1,0 +1,18 @@
+body, html {
+	background-color:#9d4470;
+	color:white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:1.1em;
+	height:100%;
+	width:100%;	
+}
+.jumbotron {
+	background-color:#449d44;
+	padding-top:10px;
+	margin:auto;
+	width:400px;
+}
+img {
+	height:50px;
+	width:50px;	
+}

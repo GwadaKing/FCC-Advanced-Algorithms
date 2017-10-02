@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.web.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
+            <name>FccCamperBoard</name>
+        </data>
+        <libraries xmlns="http://www.netbeans.org/ns/cdnjs-libraries/1">
+            <library name="jquery" version="3.2.1">
+                <file localPath="src/js/libs/jquery/jquery.min.js" path="jquery.min.js"/>
+            </library>
+            <library name="twitter-bootstrap" version="4.0.0-beta">
+                <file localPath="src/js/libs/twitter-bootstrap/css/bootstrap.min.css" path="css/bootstrap.min.css"/>
+                <file localPath="src/js/libs/twitter-bootstrap/js/bootstrap.min.js" path="js/bootstrap.min.js"/>
+            </library>
+        </libraries>
+    </configuration>
+</project>
